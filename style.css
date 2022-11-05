@@ -1,0 +1,56 @@
+    body{
+        background:#e0a8a8;
+        font-size: 20px;    }
+
+    h1{
+        text-align: center;
+        background-color: rgb(61, 146, 146);
+        border-radius: 450%;
+        color:#03380c
+    }
+#paragrafodiferente{
+    font-size: 25px;
+    color: #040222;
+}
+    p{
+        text-align: justify;
+        color:#0c0a0a; 
+    }
+#imagemprincipal{
+    width: 30%;
+    margin-left: 35%;
+    border: solid #100a66;
+    padding: 20px;
+
+}
+li::marker{
+    font-size: 25xp;
+    color: #B22222;
+    content: "\1F61C";
+}
+ ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 30%;
+    margin-right: 0%;
+ }
+
+    i{
+        
+        color:#B22222;
+      
+    }
+
+    b{
+        font-size: 30px;
+        color: #8B0000;
+    }
+    .teste{
+      font-size: 25px;
+      color: #8B0000;  
+    }
+    .imagem{
+        width: 35%;
+        border: solid #100a66;
+        padding: 20px;
+    }
